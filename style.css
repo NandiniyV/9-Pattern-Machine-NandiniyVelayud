@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.box {
+  width: 5%;
+  max-height: 100px;
+  aspect-ratio: 1/1;
+  /*border: 1px solid black;*/
+}
+
+.row {
+  display: flex;
+}
+
+/*
+// style number input boxes 
+// style color box 
+// style grid box to have equal squares and the color within the color box 
+*/
